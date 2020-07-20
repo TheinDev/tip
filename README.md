@@ -25,6 +25,7 @@ he following **required** functionality is complete:
  ## Notes
 
  Challenges encountered while building the app.
+ I like developing ios applications by referencing gif images of codepath lessons.
  Differences of xcode versions make me difficult to study application development.
  
  
