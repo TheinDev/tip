@@ -30,5 +30,10 @@ class ViewController: UIViewController {
     @IBAction func onTap(_ sender: Any) {
     }
     
+    
+    
+    @IBAction func calculateTip(_ sender: Any) {
+    }
+    
 }
 
